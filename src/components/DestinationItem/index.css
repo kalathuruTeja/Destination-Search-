@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+li {
+  width: 30%;
+  list-style: none;
+}
+
+img {
+  width: 300px;
+}
